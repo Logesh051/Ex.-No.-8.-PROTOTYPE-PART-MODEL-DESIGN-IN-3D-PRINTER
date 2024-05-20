@@ -1,5 +1,3 @@
-![Screenshot 2024-05-20 220515](https://github.com/Logesh051/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979188/0fa1ed32-3e3f-4cff-bdd2-5969e4d330a5)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
 ### DATE: 27.04.2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
