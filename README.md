@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+![Screenshot 2024-05-20 220515](https://github.com/Logesh051/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979188/0fa1ed32-3e3f-4cff-bdd2-5969e4d330a5)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 27.04.2024
 ## AIM: 
@@ -49,8 +49,9 @@
 
 ### Name: Logesh.N.A
 ### Register Number:212223240078
-
-![empd picture 3](https://github.com/PavithraD23004871/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138955967/c3c3827d-0ba1-4cbb-ba9c-3936f869a1f3)
+![Screenshot 2024-05-20 220515](https://github.com/Logesh051/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979188/94716bb1-b4eb-495b-b1b9-97eac4281824)
+![Screenshot 2024-05-20 220717](https://github.com/Logesh051/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979188/ef5fde4c-cc0f-4598-82e0-d51ebc11fd2c)
+![Uploading Screenshot 2024-05-20 220644.png…]()
 
 
 ## RESULT:
